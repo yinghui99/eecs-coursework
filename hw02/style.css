@@ -1,0 +1,153 @@
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<link href="https://fonts.googleapis.com/css?family=Neuton" rel="stylesheet">
+
+body {
+  background: AntiqueWhite;
+}
+
+h1 {
+  text-align: center;
+  font-size:50px;
+  color: #030033;
+  letter-spacing: 1px;
+  font-family: 'Neuton', serif;
+  margin-bottom:-8px;
+}
+
+h2{
+    text-align: center;
+    color: #030033;;
+}
+
+h3{
+  text-align:center;
+  color: #1C0689;
+}
+
+nav{
+  text-align: center;
+  font-size:17px;
+  letter-spacing: 0.5px;
+  font-family: 'Neuton', serif;
+}
+
+.navlink{
+  color:  #1C0689;
+  text-decoration: none;
+  margin:10px;
+}
+
+.navlink:hover{
+  text-decoration:underline;
+  color: #D81900;
+}
+
+.hometext{
+  width:50%;
+  margin-left:25%;
+  margin-right:25%;
+}
+
+#container{
+  text-align:center;
+}
+
+.genre{
+  display: inline-block;
+  margin:10px;
+}
+
+.genrehead{
+  text-decoration:none;
+  color: #1C0689;
+  text-align:center;
+}
+
+.genrehead:hover{
+  text-decoration:underline;
+  color: #D81900;
+}
+
+img {
+  width: 200px;
+  border: 5px solid #ccc;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #ccc
+}
+
+.children{
+  width:150px;
+  height:190px;
+}
+
+.text{
+  width: 60%;
+  margin-left:20%;
+  margin-right:20%;
+  text-align:left;
+}
+
+.text::first-letter {
+  font-size:500%;
+  line-height:70%
+}
+
+header{
+  text-align:center;
+}
+
+article{
+  width: 40%;
+  margin-left:30%;
+  margin-right:30%;
+}
+
+.notable{
+  font-style: Helvetica, Verdana, sans-serif;
+}
+
+ul{
+  list-style-type: none;
+  color:black;
+  width:400px;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font: 16px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+  border: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  width: 200px;
+.notable{
+  font-size:22px;
+  text-align:center;
+}
+
+li a:hover {
+  font-size: 30px;
+  background: #f6f6f6;
+}
+
+.list:hover{
+  text-decoration: underline;
+  color: #D81900;
+}
+
+.grimm{
+  width:245px;
+}
